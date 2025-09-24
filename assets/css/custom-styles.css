@@ -1,27 +1,36 @@
 
 html, body {
-  background-color: #ffffff !important;
+  background: linear-gradient(
+    135deg,
+    #9BF6FF,
+    #A0C4FF,
+    #BDB2FF,
+    #FFC6FF
+  ) !important;
+  background-attachment: fixed;
+  background-size: cover;
   color: #404040 !important;
 }
 
-a { color: #FFC6FF !important; }
+
+a { color: #A0C4FF !important; }
 a:hover, a:focus { color: #BDB2FF !important; }
 
+
 .navbar-custom {
-  background-color: #A0C4FF !important;
-  border-bottom: 3px solid #BDB2FF !important;
+  background-color: rgba(255, 255, 255, 0.8) !important;
+  backdrop-filter: blur(6px);
+  border-bottom: 2px solid #BDB2FF;
 }
 .navbar-custom .navbar-brand,
 .navbar-custom .nav-link {
   color: #404040 !important;
 }
-.navbar-custom .nav-link:hover {
-  color: #BDB2FF !important;
-}
+
 
 footer.footer, .footer, .footer .container {
-  background-color: #BDB2FF !important;
-  color: #ffffff !important;
+  background-color: rgba(255, 255, 255, 0.8) !important;
+  color: #404040 !important;
 }
 footer.footer a, .footer a { color: #9BF6FF !important; }
-footer.footer a:hover, .footer a:hover { color: #FFC6FF !important; }
+footer.footer a:hover, .footer a:hover { color: #BDB2FF !important; }
