@@ -1,0 +1,11 @@
+html, body { background-color: #FFFACD !important; color: #404040 !important; }
+a { color: #6CA6CD !important; }
+a:hover, a:focus { color: #BA55D3 !important; }
+
+.navbar-custom { background-color: #FFD1DC !important; border-bottom: 1px solid #FFE4B5 !important; }
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link { color: #404040 !important; }
+
+footer.footer, .footer, .footer .container { background-color: #DFFFD6 !important; color: #404040 !important; }
+footer.footer a, .footer a { color: #E6E6FA !important; }
+footer.footer a:hover, .footer a:hover { color: #BA55D3 !important; }
