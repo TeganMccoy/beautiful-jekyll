@@ -249,3 +249,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 .gs-section-03 h3 { color: #003566 !important; }
 .gs-section-03 p  { text-decoration: underline; }
 </style>
+
+div.gs-section-01 h3 { color: #FFADAD !important; }
+div.gs-section-02 h3 { color: #000814 !important; }
+div.gs-section-03 h3 { color: #003566 !important; }
