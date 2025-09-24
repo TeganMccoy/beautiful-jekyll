@@ -6,7 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Tegan McCoy
+title: Tegan McCoy | Portfolio
+
+description: This website is a testament to my skills as a PAF student.
+
 
 # Your name to show in the footer
 author: Tegan McCoy
@@ -40,7 +43,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "tmccoy15@asu.edu"
+  facebook: ""
   github: TeganMccoy
+  twitter: ""
+  patreon: ""
+  youtube: ""
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -61,7 +68,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is practice learning CSS and Jekyll
+# rss-description: This website is a testament to my skills as a PAF student.
 
 # --- General options --- #
 
