@@ -1,24 +1,40 @@
-html, body { background-color: #ffffff !important; color: #000000 !important; }
+html, body {
+  background: linear-gradient(
+    90deg,
+    #FFADAD,
+    #FFD6A5,
+    #FDFFB6,
+    #CAFFBF,
+    #9BF6FF,
+    #A0C4FF,
+    #BDB2FF,
+    #FFC6FF,
+    #FFFFFC
+  ) !important;
+  background-attachment: fixed;
+  background-size: cover;
+  color: #404040 !important;
+}
 
-a { color: #ff0054 !important; }
-a:hover, a:focus { color: #ff5400 !important; }
+/* Links */
+a { color: #A0C4FF !important; }
+a:hover, a:focus { color: #BDB2FF !important; }
 
+/* Navbar */
 .navbar-custom {
-  background-color: #390099 !important;
-  border-bottom: 3px solid #ffbd00 !important;
+  background-color: rgba(255, 255, 255, 0.7) !important;
+  backdrop-filter: blur(5px);
+  border-bottom: 2px solid #FFADAD;
 }
 .navbar-custom .navbar-brand,
 .navbar-custom .nav-link {
-  color: #ffbd00 !important;
+  color: #404040 !important;
 }
 
+/* Footer */
 footer.footer, .footer, .footer .container {
-  background-color: #9e0059 !important;
-  color: #ffbd00 !important;
+  background-color: rgba(255, 255, 255, 0.7) !important;
+  color: #404040 !important;
 }
-footer.footer a, .footer a {
-  color: #ffbd00 !important;
-}
-footer.footer a:hover, .footer a:hover {
-  color: #ff5400 !important;
-}
+footer.footer a, .footer a { color: #9BF6FF !important; }
+footer.footer a:hover, .footer a:hover { color: #FFADAD !important; }
