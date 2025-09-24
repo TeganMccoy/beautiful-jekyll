@@ -1,40 +1,27 @@
+
 html, body {
-  background: linear-gradient(
-    90deg,
-    #FFADAD,
-    #FFD6A5,
-    #FDFFB6,
-    #CAFFBF,
-    #9BF6FF,
-    #A0C4FF,
-    #BDB2FF,
-    #FFC6FF,
-    #FFFFFC
-  ) !important;
-  background-attachment: fixed;
-  background-size: cover;
+  background-color: #ffffff !important;
   color: #404040 !important;
 }
 
-/* Links */
-a { color: #A0C4FF !important; }
+a { color: #FFC6FF !important; }
 a:hover, a:focus { color: #BDB2FF !important; }
 
-/* Navbar */
 .navbar-custom {
-  background-color: rgba(255, 255, 255, 0.7) !important;
-  backdrop-filter: blur(5px);
-  border-bottom: 2px solid #FFADAD;
+  background-color: #A0C4FF !important;
+  border-bottom: 3px solid #BDB2FF !important;
 }
 .navbar-custom .navbar-brand,
 .navbar-custom .nav-link {
   color: #404040 !important;
 }
+.navbar-custom .nav-link:hover {
+  color: #BDB2FF !important;
+}
 
-/* Footer */
 footer.footer, .footer, .footer .container {
-  background-color: rgba(255, 255, 255, 0.7) !important;
-  color: #404040 !important;
+  background-color: #BDB2FF !important;
+  color: #ffffff !important;
 }
 footer.footer a, .footer a { color: #9BF6FF !important; }
-footer.footer a:hover, .footer a:hover { color: #FFADAD !important; }
+footer.footer a:hover, .footer a:hover { color: #FFC6FF !important; }
