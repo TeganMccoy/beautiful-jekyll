@@ -240,24 +240,12 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 
 <style>
-.gs-section-01 h3 {
-  color: #FFADAD; 
-}
-.gs-section-01 p {
-  font-size: 20px;
-}
+.gs-section-01 h3 { color: #FFADAD; }
+.gs-section-01 p  { font-size: 18px; }
 
-.gs-section-02 h3 {
-  color: #A0C4FF; 
-}
-.gs-section-02 p {
-  font-style: italic;
-}
+.gs-section-02 h3 { color: #A0C4FF; }
+.gs-section-02 p  { font-style: italic; }
 
-.gs-section-03 h3 {
-  color: #BDB2FF; 
-}
-.gs-section-03 p {
-  text-decoration: underline;
-}
+.gs-section-03 h3 { color: #BDB2FF; }
+.gs-section-03 p  { text-decoration: underline; }
 </style>
