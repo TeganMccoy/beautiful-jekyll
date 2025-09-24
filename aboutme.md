@@ -21,7 +21,7 @@ My academic and professional interests include:
 Outside of school and research, I enjoy:
 - Creative design and sewing (festival clothing, accessories, and custom apparel)  
 - Music festivals and live events 🎶
-- - Flow arts and fire dancing 🔥🪭
+- Flow arts and fire dancing 🔥🪭
 - Spending time with my family and exploring new projects 🌸  
 
 ---
