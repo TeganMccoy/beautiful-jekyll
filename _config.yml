@@ -82,7 +82,10 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://teganmccoy.github.io/beautiful-jekyll/"
+#url-pretty: "https://teganmccoy.github.io/beautiful-jekyll/"
+
+url: "https://teganmccoy.github.io"
+baseurl: "/beautiful-jekyll"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
