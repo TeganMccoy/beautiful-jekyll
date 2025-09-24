@@ -1,16 +1,31 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Program Evaluation & Data Analytics Student at ASU
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Hello, I’m Tegan 🪷
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am currently pursuing my Master’s degree in **Program Evaluation and Data Analytics** at **Arizona State University**. This portfolio site is part of my coursework for PAF 514, and also a place to share my growth in evaluation, research design, and data visualization.  
 
-What else do you need?
+My academic and professional interests include:
+- Program and policy evaluation  
+- Quantitative and qualitative research methods  
+- Regression analysis and causal inference (my favorite!)  
+- Data visualization in **R** and **Python**  
+- Public service and evidence-based decision making 
+---
 
-### My story
+## Beyond Academics
+Outside of school and research, I enjoy:
+- Creative design and sewing (festival clothing, accessories, and custom apparel)  
+- Music festivals and live events 🎶
+- - Flow arts and fire dancing 🔥🪭
+- Spending time with my family and exploring new projects 🌸  
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+---
+
+## Contact
+Feel free to connect with me:
+- 📧 [tmccoy15@asu.edu](mailto:tmccoy15@asu.edu)  
+- 🌐 [GitHub Profile](https://github.com/TeganMccoy)  
