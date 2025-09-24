@@ -12,8 +12,9 @@ My academic and professional interests include:
 - Program and policy evaluation  
 - Quantitative and qualitative research methods  
 - Regression analysis and causal inference (my favorite!)  
-- Data visualization in **R** and **Python**  
-- Public service and evidence-based decision making 
+- Data visualization in R and Python  
+- Public service and evidence-based decision making
+
 ---
 
 ## Beyond Academics
