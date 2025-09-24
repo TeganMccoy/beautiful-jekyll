@@ -243,7 +243,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 .gs-section-01 h3 { color: #FFADAD; }
 .gs-section-01 p  { font-size: 18px; }
 
-.gs-section-02 h3 { color: #7678ED; }
+.gs-section-02 h3 { color: #000814; }
 .gs-section-02 p  { font-style: italic; }
 
 .gs-section-03 h3 { color: #003566; }
