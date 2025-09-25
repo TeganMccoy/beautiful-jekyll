@@ -18,12 +18,12 @@ html, body {
 
 
 a {
-  color: #A58380 !important;
+  color: #F72585 !important;
   font-weight: 600;
   text-decoration: underline;
 }
 a:hover, a:focus {
-  color: #450920 !important;
+  color: #7090B7 !important;
   text-decoration: none;
 }
 
