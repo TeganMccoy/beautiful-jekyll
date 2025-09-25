@@ -29,4 +29,5 @@ Outside of school and research, I enjoy:
 ## Contact
 Feel free to connect with me:
 - 📧 [tmccoy15@asu.edu](mailto:tmccoy15@asu.edu)  
-- 🌐 [GitHub Profile](https://github.com/TeganMccoy)  
+- 🌐 [GitHub Profile](https://github.com/TeganMccoy)
+- 📊 [RPubs Portfolio](https://rpubs.com/peanutbuttervibes)
