@@ -17,9 +17,15 @@ html, body {
 }
 
 
-a { color: #A0C4FF !important; }
-a:hover, a:focus { color: #BDB2FF !important; }
-
+a {
+  color: #3A86FF !important;
+  font-weight: 600;
+  text-decoration: underline;
+}
+a:hover, a:focus {
+  color: #8338EC !important;
+  text-decoration: none;
+}
 
 .navbar-custom {
   background-color: rgba(255, 255, 255, 0.7) !important;
